@@ -1,1 +1,5 @@
-commit c11
+print("jhansi rani")
+print("jhansi")
+x=10
+print(type(X))
+
